@@ -1,0 +1,47 @@
+Nama              : Ahmad C
+Tinggi badan      : 13 cm
+Berat badan       : 1334 kg
+BMI               : 78934.91
+Berat badan ideal : 0.31 - 0.42 kg
+Status            : Extreme Obesity
+Tinggi badan      : 143 cm
+Berat badan       : 234 kg
+BMI               : 114.43
+Berat badan ideal : 37.83 - 50.92 kg
+Status            : Extreme Obesity
+
+Nama              : Ahmad D
+Tinggi badan      : 1 cm
+Berat badan       : 1 kg
+BMI               : 10000.00
+Berat badan ideal : 0.00 - 0.00 kg
+Status            : Extreme Obesity
+
+Nama              : Axis Inf
+Tinggi badan      : 156 cm
+Berat badan       : 23 kg
+BMI               : 9.45
+Berat badan ideal : 45.02 - 60.60 kg
+Status            : Under Weight
+
+Nama              : Best AxX
+Tinggi badan      : 12 cm
+Berat badan       : 12 kg
+BMI               : 833.33
+Berat badan ideal : 0.27 - 0.36 kg
+Status            : Extreme Obesity
+
+Nama              : Best H
+Tinggi badan      : 14 cm
+Berat badan       : 24 kg
+BMI               : 1224.49
+Berat badan ideal : 0.36 - 0.49 kg
+Status            : Extreme Obesity
+
+Nama              : Cesd
+Tinggi badan      : 15 cm
+Berat badan       : 13 kg
+BMI               : 577.78
+Berat badan ideal : 0.42 - 0.56 kg
+Status            : Extreme Obesity
+
